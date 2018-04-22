@@ -8,7 +8,7 @@
 
 import UIKit
 
-class BubbleView: UIView {
+public class BubbleView: UIView {
 
     @IBOutlet var bubbleView: UIView!
     @IBOutlet var placeText: UILabel!

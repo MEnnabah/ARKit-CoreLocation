@@ -10,6 +10,7 @@
 		10043061208C29820062F789 /* BubbleView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1004305E208C29820062F789 /* BubbleView.xib */; };
 		10043062208C29820062F789 /* BubbleSpriteKitScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1004305F208C29820062F789 /* BubbleSpriteKitScene.swift */; };
 		10043063208C29820062F789 /* BubbleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10043060208C29820062F789 /* BubbleView.swift */; };
+		10EEA94D208C2CA200F4746F /* TEST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EEA94C208C2CA200F4746F /* TEST.swift */; };
 		4901EF051F1B7D560067870D /* SceneLocationEstimate+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4901EF041F1B7D560067870D /* SceneLocationEstimate+Extensions.swift */; };
 		49099E391F24BAE5007B76FD /* SCNVector3+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49099E381F24BAE5007B76FD /* SCNVector3+Extensions.swift */; };
 		49A3FBDC1F09988100AA59C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49A3FBDB1F09988100AA59C8 /* AppDelegate.swift */; };
@@ -33,6 +34,7 @@
 		1004305E208C29820062F789 /* BubbleView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BubbleView.xib; sourceTree = "<group>"; };
 		1004305F208C29820062F789 /* BubbleSpriteKitScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BubbleSpriteKitScene.swift; sourceTree = "<group>"; };
 		10043060208C29820062F789 /* BubbleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BubbleView.swift; sourceTree = "<group>"; };
+		10EEA94C208C2CA200F4746F /* TEST.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TEST.swift; sourceTree = "<group>"; };
 		38104A8494954E9B79241EAE /* Pods-ARKit+CoreLocation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARKit+CoreLocation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ARKit+CoreLocation/Pods-ARKit+CoreLocation.debug.xcconfig"; sourceTree = "<group>"; };
 		4901EF041F1B7D560067870D /* SceneLocationEstimate+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SceneLocationEstimate+Extensions.swift"; sourceTree = "<group>"; };
 		49099E381F24BAE5007B76FD /* SCNVector3+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SCNVector3+Extensions.swift"; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				49A3FC021F09BADB00AA59C8 /* FloatingPoint+Radians.swift */,
 				49A3FC041F0A423800AA59C8 /* CGPoint+Extensions.swift */,
 				49D206F21F124BDD00D7D622 /* SCNNode+Extensions.swift */,
+				10EEA94C208C2CA200F4746F /* TEST.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 				49A3FC031F09BADB00AA59C8 /* FloatingPoint+Radians.swift in Sources */,
 				D8C205D11F5B197200675E6E /* NotSupportedViewController.swift in Sources */,
 				49A3FBFF1F09B1D200AA59C8 /* LocationNode.swift in Sources */,
+				10EEA94D208C2CA200F4746F /* TEST.swift in Sources */,
 				49A3FBFD1F09B00400AA59C8 /* CLLocation+Extensions.swift in Sources */,
 				49A3FC051F0A423800AA59C8 /* CGPoint+Extensions.swift in Sources */,
 				49A3FBE01F09988100AA59C8 /* ViewController.swift in Sources */,
